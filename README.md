@@ -1,6 +1,6 @@
 # BMI-Calculater
 
-![BMI calc](./vid.gif)
+![BMI calc](./__BMI__.gif)
 
 # Project Description
 
